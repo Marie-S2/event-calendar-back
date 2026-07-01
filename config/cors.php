@@ -7,8 +7,7 @@ return [
     'allowed_methods' => ['*'],
 
     'allowed_origins' => [
-        'http://localhost:4200',
-        'https://event-calendar-front.vercel.app'
+        'https://event-calendar-front-d8ybfm7cu-poh123.vercel.app/login'
     ],
 
     'allowed_headers' => ['*'],
